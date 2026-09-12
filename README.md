@@ -267,4 +267,4 @@ This repository serves as the official landing page for Visme. The software is d
 **Get the most recent version of Visme today!**
 
 ---
-**Last updated:** 2026-09-12 10:10:32 UTC
+**Last updated:** 2026-09-12 13:53:49 UTC
